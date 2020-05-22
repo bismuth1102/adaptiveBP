@@ -24,7 +24,7 @@ Build a random tree graph which can be used to implement adaptive-belief propaga
 
 ### XBeliefProgation.py
 Implement standard BP and adaptive BP
-<br>
+****
 
 E: a list of Euler-tour traverses result<br>
 	res转成label序列，E是label的排序<br><br>
